@@ -5,6 +5,7 @@ export default function HomeScreen() {
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
         <Text style={styles.title}>Demo GitHub thành công</Text>
+        <Text>Footer Demo</Text>
       </View>
     </SafeAreaView>
   );
